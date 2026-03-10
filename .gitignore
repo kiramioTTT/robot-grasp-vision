@@ -1,0 +1,12 @@
+*.pt
+*.pth
+*.zip
+*.tar.gz
+__pycache__/
+*.pyc
+runs/
+datasets/
+.vscode/
+*.egg-info/
+build/
+dist/
